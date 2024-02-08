@@ -1,0 +1,4 @@
+tools:
+  python-stringify:
+    title: Transform your Python into text
+    description: Easily convert Python data structures or code into strings for storage, communication, or introspection.
